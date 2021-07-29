@@ -4,7 +4,7 @@
 <p>🏖️ Rio de Janeiro - Brasil</p>
 <hr>
  <div>
-  <a href="https://github.com/bernardpbfg">
+  <a href="https://github.com/bernardobfg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardobfg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardobfg&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
