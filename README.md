@@ -1,7 +1,9 @@
 ## Bernardo Bevilaqua 👋
-#### 📜 Engenharia Eletrônica e de Computação - UFRJ
-#### 🔞 20 anos
 #### 🏖️ Rio de Janeiro - Brasil
+#### 🔞 20 anos
+#### 📜 Engenharia Eletrônica e de Computação - UFRJ
+#### 💀 Consultor de projetos na Fluxo Consultoria
+
 ##
  <div>
   <a href="https://github.com/bernardobfg">
