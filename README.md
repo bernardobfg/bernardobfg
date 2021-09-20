@@ -2,7 +2,7 @@
 #### 🏖️ Rio de Janeiro - Brasil
 #### 🔞 20 anos
 #### 📜 Engenharia Eletrônica e de Computação - UFRJ
-#### 💀 Consultor de projetos na Fluxo Consultoria
+#### 💀 Desenvolvidor Front-End na Fluxo Consultoria
 
 ##
  <div>
