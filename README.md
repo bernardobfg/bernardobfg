@@ -1,6 +1,6 @@
 ## Bernardo Bevilaqua 👋
 #### 🏖️ Rio de Janeiro - Brasil
-#### 🔞 20 anos
+#### 🔞 21 anos
 #### 📜 Engenharia Eletrônica e de Computação - UFRJ
 #### 💀 Desenvolvidor Front-End na Fluxo Consultoria
 
