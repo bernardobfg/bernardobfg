@@ -26,7 +26,6 @@
 ##
 
  <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=bernardobfg&area=true&bg_color=1A1B27&color=38BCAD&line=628FDB&point=AF85DF">
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardobfg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardobfg&layout=compact&langs_count=7&theme=tokyonight&hide=jupyter%20notebook,shell"/> 
