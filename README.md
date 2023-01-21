@@ -1,6 +1,6 @@
 # Bernardo Bevilaqua 👋
 #### 🏖️ Rio de Janeiro - Brasil
-#### 🔞 21 anos
+#### 🔞 22 anos
 #### 📜 Engenharia Eletrônica e de Computação - UFRJ
 #### 💻 Desenvolvidor Full-Stack na Visagio
 
