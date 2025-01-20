@@ -1,8 +1,8 @@
 # Bernardo Bevilaqua 👋
 #### 🏖️ Rio de Janeiro - Brasil
-#### 🔞 22 anos
+#### 🔞 24 anos
 #### 📜 Engenharia Eletrônica e de Computação - UFRJ
-#### 💻 Desenvolvidor Full-Stack na Visagio
+#### 💻 Desenvolvedor Full-Stack na Visagio
 
 <div align="center">
     <a href = "mailto:bernardo.bfg@poli.ufrj.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
